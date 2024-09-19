@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import '@slidev/cli'
-import markdownItWordBreakStyle from './tools/markdown-it-budoux'
+import markdownItWordBreakStyle from './tools/markdown-it-word-break-style'
 
 export default defineConfig({
   slidev: {
